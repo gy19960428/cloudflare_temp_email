@@ -137,3 +137,7 @@ dist
 wrangler.toml
 .dev.vars
 pnpm-lock.yaml
+
+.dev.vars*
+!.dev.vars.example
+!.env.example
