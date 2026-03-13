@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "limuxdomailapi",
+  // wrangler.jsonc
+  "name": "lunuxdomailapi",
   "compatibility_date": "2025-09-27",
   "observability": {
     "enabled": true
